@@ -35,12 +35,6 @@ login Username : habib@user
 Login Password : habib@pass
 ```
 
-<br>
-
-` Disclaimer  : This tool made for only educational purpose please don't use it for any bad purpose.`
-
-<br>
-
 ## Usage.
 
 
